@@ -1,0 +1,27 @@
+_repo: Studies-in-the-Art-of-Rat-catching_41133
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41133-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Barkley, Henry C.
+    alias: Barkley, H. C.
+    gutenberg_agent_id: '40996'
+    url: http://www.gutenberg.org/2009/agents/40996
+description: ''
+gutenberg_issued: '2012-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rats'
+- !lcsh 'Rats -- Control'
+- !lcc 'SB'
+- !lcsh 'Ferret'
+title: Studies in the Art of Rat-catching
+url: http://www.gutenberg.org/ebooks/41133
